@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<RACKS>
+    <RACK>
+          <NAME>Rack1</NAME>
+              <HEIGHT>42</HEIGHT>
+                  <ID>001</ID>
+                      <LOCATION>East</LOCATION>
+                          <SERVERS>
+                                  <SERVER>
+                                            <SERVER_ID>2412</SERVER_ID>
+                                                    <SERVER_NAME>Server 1</SERVER_NAME>
+                                                            <SERVER_HEIGHT>5</SERVER_HEIGHT>
+                                                                  </SERVER>
+                                                                        <SERVER>
+                                                                                  <SERVER_ID>2447</SERVER_ID>
+                                                                                          <SERVER_NAME>Server 2</SERVER_NAME>
+                                                                                                  <SERVER_HEIGHT>2</SERVER_HEIGHT>
+                                                                                                        </SERVER>
+                                                                                                              <SERVER>
+                                                                                                                        <SERVER_ID>2413</SERVER_ID>
+                                                                                                                                <SERVER_NAME>Server 3</SERVER_NAME>
+                                                                                                                                        <SERVER_HEIGHT>4</SERVER_HEIGHT>
+                                                                                                                                              </SERVER>
+                                                                                                                                                  </SERVERS>
+                                                                                                                                                    </RACK>
+                                                                                                                                                      <RACK>
+                                                                                                                                                            <NAME>Rack 2</NAME>
+                                                                                                                                                                <HEIGHT>22</HEIGHT>
+                                                                                                                                                                    <ID>003</ID>
+                                                                                                                                                                        <LOCATION>South</LOCATION>
+                                                                                                                                                                            <SERVERS>
+                                                                                                                                                                                    <SERVER>
+                                                                                                                                                                                              <SERVER_ID>12449</SERVER_ID>
+                                                                                                                                                                                                      <SERVER_NAME>TestServer abc</SERVER_NAME>
+                                                                                                                                                                                                              <SERVER_HEIGHT>4</SERVER_HEIGHT>
+                                                                                                                                                                                                                    </SERVER>
+                                                                                                                                                                                                                          <SERVER>
+                                                                                                                                                                                                                                    <SERVER_ID>12451</SERVER_ID>
+                                                                                                                                                                                                                                            <SERVER_NAME>TestServer 5</SERVER_NAME>
+                                                                                                                                                                                                                                                    <SERVER_HEIGHT>4</SERVER_HEIGHT>
+                                                                                                                                                                                                                                                          </SERVER>
+                                                                                                                                                                                                                                                                <SERVER>
+                                                                                                                                                                                                                                                                          <SERVER_ID>12453</SERVER_ID>
+                                                                                                                                                                                                                                                                                  <SERVER_NAME>TestServer 6</SERVER_NAME>
+                                                                                                                                                                                                                                                                                          <SERVER_HEIGHT>4</SERVER_HEIGHT>
+                                                                                                                                                                                                                                                                                                </SERVER>
+                                                                                                                                                                                                                                                                                                      <SERVER>
+                                                                                                                                                                                                                                                                                                                <SERVER_ID>12456</SERVER_ID>
+                                                                                                                                                                                                                                                                                                                        <SERVER_NAME>TestServer 7</SERVER_NAME>
+                                                                                                                                                                                                                                                                                                                                <SERVER_HEIGHT>4</SERVER_HEIGHT>
+                                                                                                                                                                                                                                                                                                                                      </SERVER>
+                                                                                                                                                                                                                                                                                                                                          </SERVERS>
+                                                                                                                                                                                                                                                                                                                                            </RACK>
+                                                                                                                                                                                                                                                                                                                                          </RACKS>
