@@ -1,7 +1,0 @@
-Location.class
-hpapi/models/Server.class
-hpapi/retrieval/XMLRetriever.class
-hpapi/controllers/ServerController.class
-hpapi/retrieval/DataRetriever.class
-hpapi/HpAPI.class
-hpapi/models/Rack.class
